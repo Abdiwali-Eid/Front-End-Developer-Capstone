@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Front-End-Developer-Capstone.github.io/static/css/main.c1585156.css",
+    "main.js": "/Front-End-Developer-Capstone.github.io/static/js/main.3e9f246d.js",
+    "static/media/dhex.PNG": "/Front-End-Developer-Capstone.github.io/static/media/dhex.3f1ab6a675eb8e1964d0.PNG",
+    "static/media/brustecha.jpg": "/Front-End-Developer-Capstone.github.io/static/media/brustecha.aac2596fe34572c450b7.jpg",
+    "static/media/Logo .svg": "/Front-End-Developer-Capstone.github.io/static/media/Logo .f72c913c48c5334f78f2c336ec36f22b.svg",
+    "static/media/green salad.jfif": "/Front-End-Developer-Capstone.github.io/static/media/green salad.a5270d53407651d4b355.jfif",
+    "static/media/lemmon desert.jfif": "/Front-End-Developer-Capstone.github.io/static/media/lemmon desert.d849ff73132e02777a70.jfif",
+    "static/media/avater.jfif": "/Front-End-Developer-Capstone.github.io/static/media/avater.b77edd37e10a423631e3.jfif",
+    "index.html": "/Front-End-Developer-Capstone.github.io/index.html",
+    "main.c1585156.css.map": "/Front-End-Developer-Capstone.github.io/static/css/main.c1585156.css.map",
+    "main.3e9f246d.js.map": "/Front-End-Developer-Capstone.github.io/static/js/main.3e9f246d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1585156.css",
+    "static/js/main.3e9f246d.js"
+  ]
+}
